@@ -7,7 +7,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/blogargentina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blogargentina" height="30" width="40" /></a>
+<a href="https://twitter.com/blog_argentina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blogargentina" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/delvallemaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="delvallemaria" height="30" width="40" /></a>
 <a href="https://fb.com/cepidelvalle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cepidelvalle" height="30" width="40" /> </a>
 <a href="https://instagram.com/blogargentina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blogargentina" height="30" width="40" /></a>
